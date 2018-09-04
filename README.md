@@ -7,7 +7,7 @@ Prequisites:
 
 Installation:
 
-Put xmlplus.lua somewhere in your package.path.
+Put `xmlplus.lua` somewhere in your `package.path`.
 
 Usage:
 
